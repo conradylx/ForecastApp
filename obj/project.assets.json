@@ -12567,11 +12567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\OneDrive\\Pulpit\\test\\new\\ForecastApp — dodać tylko role\\ForecastApp.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\OneDrive\\Pulpit\\ForecastApp\\ForecastApp.csproj",
       "projectName": "ForecastApp",
-      "projectPath": "C:\\Users\\frank\\OneDrive\\Pulpit\\test\\new\\ForecastApp — dodać tylko role\\ForecastApp.csproj",
+      "projectPath": "C:\\Users\\frank\\OneDrive\\Pulpit\\ForecastApp\\ForecastApp.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\OneDrive\\Pulpit\\test\\new\\ForecastApp — dodać tylko role\\obj\\",
+      "outputPath": "C:\\Users\\frank\\OneDrive\\Pulpit\\ForecastApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
